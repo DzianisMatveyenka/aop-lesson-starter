@@ -1,5 +1,5 @@
 Ссылка на документацию по AOP:
-https://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#aop-aspectj-support
+https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aop
 
 1. Создать класс BraveKnight, реализующий интерфейс Knight с методом
             public void embarkOnQuest()
