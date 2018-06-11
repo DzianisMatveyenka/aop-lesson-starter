@@ -1,6 +1,6 @@
-package by.hector.aspect;
+package com.matveyenka.aspect;
 
-import by.hector.config.ApplicationConfig;
+import com.matveyenka.config.ApplicationConfig;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;
